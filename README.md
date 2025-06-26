@@ -6,7 +6,7 @@ A clean, modern age calculator app that shows your current age and counts down t
 
 ## 🔗 Live Demo
 
-🧮 [Try It Live](https://yourusername.github.io/age-calculator/)  
+🧮 [Try It Live](https://techypratik.github.io/Age-Calculator/)  
 *(Replace with your actual GitHub Pages link)*
 
 ---
